@@ -1,0 +1,14 @@
+C:\Users\dam209\Repositorios\Proyecto_PRSP_Cliente\Proyecto_PRSP_Cliente\bin\Debug\Proyecto_PRSP_Cliente.exe.config
+C:\Users\dam209\Repositorios\Proyecto_PRSP_Cliente\Proyecto_PRSP_Cliente\bin\Debug\Proyecto_PRSP_Cliente.exe
+C:\Users\dam209\Repositorios\Proyecto_PRSP_Cliente\Proyecto_PRSP_Cliente\bin\Debug\Proyecto_PRSP_Cliente.pdb
+C:\Users\dam209\Repositorios\Proyecto_PRSP_Cliente\Proyecto_PRSP_Cliente\obj\Debug\Proyecto_PRSP_Cliente.csprojResolveAssemblyReference.cache
+C:\Users\dam209\Repositorios\Proyecto_PRSP_Cliente\Proyecto_PRSP_Cliente\obj\Debug\MainWindow.g.cs
+C:\Users\dam209\Repositorios\Proyecto_PRSP_Cliente\Proyecto_PRSP_Cliente\obj\Debug\App.g.cs
+C:\Users\dam209\Repositorios\Proyecto_PRSP_Cliente\Proyecto_PRSP_Cliente\obj\Debug\Proyecto_PRSP_Cliente_MarkupCompile.cache
+C:\Users\dam209\Repositorios\Proyecto_PRSP_Cliente\Proyecto_PRSP_Cliente\obj\Debug\Proyecto_PRSP_Cliente_MarkupCompile.lref
+C:\Users\dam209\Repositorios\Proyecto_PRSP_Cliente\Proyecto_PRSP_Cliente\obj\Debug\MainWindow.baml
+C:\Users\dam209\Repositorios\Proyecto_PRSP_Cliente\Proyecto_PRSP_Cliente\obj\Debug\Proyecto_PRSP_Cliente.g.resources
+C:\Users\dam209\Repositorios\Proyecto_PRSP_Cliente\Proyecto_PRSP_Cliente\obj\Debug\Proyecto_PRSP_Cliente.Properties.Resources.resources
+C:\Users\dam209\Repositorios\Proyecto_PRSP_Cliente\Proyecto_PRSP_Cliente\obj\Debug\Proyecto_PRSP_Cliente.csproj.GenerateResource.Cache
+C:\Users\dam209\Repositorios\Proyecto_PRSP_Cliente\Proyecto_PRSP_Cliente\obj\Debug\Proyecto_PRSP_Cliente.exe
+C:\Users\dam209\Repositorios\Proyecto_PRSP_Cliente\Proyecto_PRSP_Cliente\obj\Debug\Proyecto_PRSP_Cliente.pdb
